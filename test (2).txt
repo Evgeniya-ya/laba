@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Evgeniya Vasilevnaaaaa
-=======
-Evgeniya Vas
->>>>>>> newdev
+
